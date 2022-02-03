@@ -1,0 +1,150 @@
+body {
+    align-content: center
+}
+
+.card-img-top {
+    width: 30%
+}
+
+.card {
+    align-items: center
+}
+
+#banner-container {
+    text-align: center
+}
+
+#banner-h1 {
+    text-align: center;
+    margin: 0
+}
+
+#banner-img {
+    width: auto;
+    max-width: 100%
+}
+
+#banner {
+    margin: 0;
+    padding: 1%;
+    /* background-color: #ffffff; */
+    background-image: url(../img/fardos-papel-edited.jpg);
+}
+
+button.navbar-toggler {
+    padding: 0
+}
+
+#navbar-parent {
+    background-color: #000099;
+    padding-top: .2rem;
+    padding-bottom: .2rem
+}
+
+a.nav-link {
+    color: #fff!important
+}
+
+li.nav-item:hover {
+    background-color: #000099;
+}
+
+li.nav-item:focus {
+    background-color: #000099;
+}
+
+li.nav-item.active {
+    background-color: #000099;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: transparent
+}
+
+.navbar-dark .navbar-toggler {
+    color: #fff
+}
+
+.navbar-text {
+    color: #fff!important
+}
+
+#email {
+    text-decoration: none
+}
+
+#phone {
+    text-decoration: none;
+    margin-left: 1rem
+}
+
+#carousel-img {
+    margin: auto;
+}
+
+div.card-body {
+    text-align: center
+}
+
+h5.card-title {
+    margin: 0
+}
+
+.card-deck {
+    margin-top: 2rem;
+    margin-bottom: 2rem
+}
+
+#footer {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #003ca5;
+    color: #fff
+}
+
+p.card-text {
+    text-align: justify
+}
+
+#footer div ul li {
+    background-color: transparent
+}
+
+#footer-menu-title {
+    border: 0
+}
+
+#first-item {
+    border-top: 0
+}
+
+.list-group-item {
+    border: 1px solid rgba(255, 255, 255, .15)
+}
+
+.list-group-item a {
+    text-decoration: none!important;
+    color: #fff
+}
+
+footer {
+    background-color: #000099;
+}
+
+footer .container {
+    padding: 1rem
+}
+
+.text-muted {
+    color: #fff!important
+}
+
+#about-container {
+    text-align: justify
+}
+
+#about-jumbotron {
+    margin: 0;
+    padding: 2rem;
+    background-color: #ffffff;
+}
